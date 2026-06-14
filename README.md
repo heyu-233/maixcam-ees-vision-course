@@ -17,6 +17,7 @@
 | `lessons/03_rectangle_preprocess` | 摄像头图像转 OpenCV，灰度、滤波、二值化、找轮廓 |
 | `lessons/04_rectangle_detection` | 轮廓筛选、四边形近似、长宽比过滤、最佳矩形与中心点 |
 | `lessons/05_corner_sorting` | 角点排序、真实四边形绘制、真实中心计算 |
+| `lessons/06_perspective_warp` | 透视变换拉正矩形标靶、标准图中心反变换、屏幕中心误差 |
 
 ## 使用方式
 
@@ -27,4 +28,3 @@
 ## 说明
 
 代码面向教学和电赛备赛，优先保证结构清晰、方便修改和调参。
-
